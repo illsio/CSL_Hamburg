@@ -10,3 +10,13 @@
 - Data workshop in Oct.
 - Basic prototype and potential for the tool
 - AR/MR viz for the data presented
+
+![](./img/Cruise00000.jpg)
+![](./img/Cruise00001.jpg)
+![](./img/Cruise00002.jpg)
+![](./img/Cruise00003.jpg)
+
+##### Oucomes
+
+- set up meeting with stakeholders as soon as possible to identify goals, data and deliverables
+- start training HCU on ABM + data analysis

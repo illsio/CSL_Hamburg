@@ -1,4 +1,4 @@
-# CSL_Hamburg
+# CityScience Lab in Hamburg
 
 CSL @ HCU and projects overview
 
