@@ -9,3 +9,5 @@ This page is populated by projects and docs for the HCU/MIT cooperation.
 [DIPAS Project Docs](https://github.com/CityScope/CSL_Hamburg/blob/master/DOCS/DIPAS-Workshop.md)
 
 [Smart Square Docs](https://github.com/CityScope/CSL_Hamburg/blob/master/DOCS/SmrtSq-Workshop.md)
+
+[CruisePort Docs](https://github.com/CityScope/CSL_Hamburg/blob/master/DOCS/CruisePort-Workshop.md)
