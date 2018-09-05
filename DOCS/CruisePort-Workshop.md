@@ -20,3 +20,9 @@
 
 - set up meeting with stakeholders as soon as possible to identify goals, data and deliverables
 - start training HCU on ABM + data analysis
+
+##### Call
+
+- data available:
+  - questioner done a few years ago
+  - Nov. workshop to learn about data needs
