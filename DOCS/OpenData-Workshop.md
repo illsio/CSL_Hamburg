@@ -16,3 +16,10 @@
 
 - build it locally
 - interactive table, CityScope style
+
+### Discussion
+
+- Building the kit while using open source tools and platforms
+- Working with open standards [TUIO protocol]
+- Angular framework for modular development
+- Building a guide for the tools and hardware
