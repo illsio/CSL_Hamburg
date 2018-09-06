@@ -14,8 +14,10 @@
 
 ##### Open Tech Kit
 
-- build it locally
+- HCU to build it locally
 - interactive table, CityScope style
+- open source, code + hardware
+- sharable comps. between HCU+MIT
 
 ### Discussion
 
